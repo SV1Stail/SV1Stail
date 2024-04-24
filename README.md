@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SV1Stail
 - 👀 I’m interested in coding ...
-- 🌱 I’m currently learning python,C,C++
+- 🌱 I’m currently learning !!!!!!!!!!!GOLANG!!!!!!!!!!!,C,C++
 
 - 📫 How to reach me @zuluv
 
