@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding ...
 - 🌱 I’m currently learning !!!!!!!!!!!GOLANG!!!!!!!!!!!,C,C++
 
-- 📫 How to reach me @zuluv
+- 📫 How to reach me @brainyki
 
 <!---
 SV1Stail/SV1Stail is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
